@@ -1,7 +1,9 @@
 ## Tema 1
 
 En este tema se veran **conceptos basicos**
+
 ![Lenguajes de programacion](./assets/img1.webp)
+
 Se veran los siguientes apartados
 
 1. dsds
@@ -33,4 +35,5 @@ void main (String args[]){
 > ```javascript
 > var numero = 5
 > ```
+> 
 ![NodeJs](./assets/img3.png)
