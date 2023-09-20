@@ -11,7 +11,7 @@ Se veran los siguientes apartados
 ---
 
 Lenguaje   |   Inventor   |   Año
------------|--------------|--------
+-----------|:--------------:|--------:
 JavaScript |James         |1995
 Java       |James Gosling |1995
 
